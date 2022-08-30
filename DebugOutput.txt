@@ -1,0 +1,193 @@
+
+Emily Peguero Marmolejos CSCI 381 Buses First 
+
+2.003842 : Passenger 1 enters station 1.
+19.53311 : Passenger 2 enters station 2.
+19.597404 : Passenger 3 enters station 3.
+33.825653 : Passenger 4 enters station 4.
+34.883762 : Passenger 5 enters station 1.
+34.88795 : Passenger 6 enters station 2.
+38.385757 : Passenger 1 boarded the bus at station 1.
+40.385757 : Passenger 5 boarded the bus at station 1.
+40.991924 : Passenger 7 enters station 3.
+41.02155 : Passenger 8 enters station 4.
+46.724983 : Passenger 9 enters station 1.
+51.183735 : Passenger 10 enters station 2.
+53.398895 : Passenger 11 enters station 3.
+57.385757 : Passenger 2 boarded the bus at station 2.
+59.385757 : Passenger 6 boarded the bus at station 2.
+61.385757 : Passenger 10 boarded the bus at station 2.
+75.110825 : Passenger 12 enters station 4.
+78.38576 : Passenger 3 boarded the bus at station 3.
+80.38576 : Passenger 7 boarded the bus at station 3.
+82.38576 : Passenger 11 boarded the bus at station 3.
+88.67204 : Passenger 13 enters station 1.
+91.97219 : Passenger 14 enters station 2.
+92.67529 : Passenger 15 enters station 3.
+93.6922 : Passenger 16 enters station 4.
+97.38576 : Passenger 1 spent 59.0 on a bus.
+97.38576 : Passenger 1 is departing at station 4
+Passenger 1 had to wait for 0 round trips before entering the bus.
+98.38576 : Passenger 5 spent 58.0 on a bus.
+98.38576 : Passenger 5 is departing at station 4
+Passenger 5 had to wait for 0 round trips before entering the bus.
+99.38576 : Passenger 2 spent 42.0 on a bus.
+99.38576 : Passenger 2 is departing at station 4
+Passenger 2 had to wait for 0 round trips before entering the bus.
+102.38576 : Passenger 4 boarded the bus at station 4.
+104.38576 : Passenger 8 boarded the bus at station 4.
+106.38576 : Passenger 12 boarded the bus at station 4.
+108.38576 : Passenger 16 boarded the bus at station 4.
+129.52066 : Passenger 17 enters station 1.
+134.47188 : Passenger 18 enters station 2.
+135.84367 : Passenger 19 enters station 3.
+141.59889 : Passenger 6 spent 82.213135 on a bus.
+141.59889 : Passenger 6 is departing at station 1
+Passenger 6 had to wait for 0 round trips before entering the bus.
+144.59889 : Passenger 9 boarded the bus at station 1.
+146.59889 : Passenger 13 boarded the bus at station 1.
+148.59889 : Passenger 17 boarded the bus at station 1.
+149.09749 : Passenger 20 enters station 4.
+187.50023 : Passenger 10 spent 126.11447 on a bus.
+187.50023 : Passenger 10 is departing at station 2
+Passenger 10 had to wait for 0 round trips before entering the bus.
+190.50023 : Passenger 14 boarded the bus at station 2.
+192.50023 : Passenger 18 boarded the bus at station 2.
+226.01741 : Passenger 12 spent 119.63165 on a bus.
+226.01741 : Passenger 12 is departing at station 3
+Passenger 12 had to wait for 0 round trips before entering the bus.
+227.01741 : Passenger 13 spent 80.41852 on a bus.
+227.01741 : Passenger 13 is departing at station 3
+Passenger 13 had to wait for 0 round trips before entering the bus.
+230.01741 : Passenger 15 boarded the bus at station 3.
+232.01741 : Passenger 19 boarded the bus at station 3.
+253.01741 : Passenger 4 spent 150.63165 on a bus.
+253.01741 : Passenger 4 is departing at station 4
+Passenger 4 had to wait for 0 round trips before entering the bus.
+254.01741 : Passenger 8 spent 149.63165 on a bus.
+254.01741 : Passenger 8 is departing at station 4
+Passenger 8 had to wait for 0 round trips before entering the bus.
+255.01741 : Passenger 14 spent 64.51718 on a bus.
+255.01741 : Passenger 14 is departing at station 4
+Passenger 14 had to wait for 0 round trips before entering the bus.
+258.0174 : Passenger 20 boarded the bus at station 4.
+301.65723 : Passenger 9 spent 157.05833 on a bus.
+301.65723 : Passenger 9 is departing at station 1
+Passenger 9 had to wait for 0 round trips before entering the bus.
+324.65723 : Passenger 18 spent 132.157 on a bus.
+324.65723 : Passenger 18 is departing at station 2
+Passenger 18 had to wait for 0 round trips before entering the bus.
+356.4001 : Passenger 15 spent 126.382675 on a bus.
+356.4001 : Passenger 15 is departing at station 3
+Passenger 15 had to wait for 0 round trips before entering the bus.
+357.4001 : Passenger 19 spent 125.382675 on a bus.
+357.4001 : Passenger 19 is departing at station 3
+Passenger 19 had to wait for 0 round trips before entering the bus.
+358.4001 : Passenger 20 spent 100.38269 on a bus.
+358.4001 : Passenger 20 is departing at station 3
+Passenger 20 had to wait for 0 round trips before entering the bus.
+633.329 : Passenger 100 enters station 4.
+635.03265 : Passenger 101 enters station 1.
+640.9244 : Passenger 102 enters station 2.
+650.8634 : Passenger 103 enters station 3.
+655.4741 : Passenger 104 enters station 4.
+665.66235 : Passenger 105 enters station 1.
+668.2062 : Passenger 106 enters station 2.
+668.39325 : Passenger 107 enters station 3.
+669.6306 : Passenger 108 enters station 4.
+675.2331 : Passenger 109 enters station 1.
+675.252 : Passenger 110 enters station 2.
+675.3892 : Passenger 111 enters station 3.
+675.94977 : Passenger 112 enters station 4.
+677.80554 : Passenger 113 enters station 1.
+678.27075 : Passenger 114 enters station 2.
+688.6172 : Passenger 115 enters station 3.
+697.66724 : Passenger 116 enters station 4.
+707.28986 : Passenger 117 enters station 1.
+724.1501 : Passenger 118 enters station 2.
+731.90784 : Passenger 119 enters station 3.
+747.2747 : Passenger 120 enters station 4.
+3244.652 : Passenger 103 boarded the bus at station 3.
+3274.652 : Passenger 103 spent 30.0 on a bus.
+3274.652 : Passenger 103 is departing at station 1
+Passenger 103 had to wait for 26 round trips before entering the bus.
+3277.652 : Passenger 101 boarded the bus at station 1.
+3331.0884 : Passenger 101 spent 53.43628 on a bus.
+3331.0884 : Passenger 101 is departing at station 3
+Passenger 101 had to wait for 27 round trips before entering the bus.
+3334.0884 : Passenger 107 boarded the bus at station 3.
+3396.511 : Passenger 107 spent 62.422607 on a bus.
+3396.511 : Passenger 107 is departing at station 2
+Passenger 107 had to wait for 27 round trips before entering the bus.
+3538.8022 : Passenger 111 boarded the bus at station 3.
+3611.123 : Passenger 111 spent 72.3208 on a bus.
+3611.123 : Passenger 111 is departing at station 1
+Passenger 111 had to wait for 29 round trips before entering the bus.
+3614.123 : Passenger 105 boarded the bus at station 1.
+3692.5059 : Passenger 105 spent 78.38281 on a bus.
+3692.5059 : Passenger 105 is departing at station 4
+Passenger 105 had to wait for 29 round trips before entering the bus.
+3802.9739 : Passenger 109 boarded the bus at station 1.
+3913.6006 : Passenger 109 spent 110.62671 on a bus.
+3913.6006 : Passenger 109 is departing at station 1
+Passenger 109 had to wait for 31 round trips before entering the bus.
+3916.6006 : Passenger 113 boarded the bus at station 1.
+3951.7673 : Passenger 113 spent 35.166748 on a bus.
+3951.7673 : Passenger 113 is departing at station 3
+Passenger 113 had to wait for 32 round trips before entering the bus.
+3954.7673 : Passenger 115 boarded the bus at station 3.
+4040.7903 : Passenger 115 spent 86.02295 on a bus.
+4040.7903 : Passenger 115 is departing at station 3
+Passenger 115 had to wait for 32 round trips before entering the bus.
+4043.7903 : Passenger 119 boarded the bus at station 3.
+4094.8362 : Passenger 119 spent 51.0459 on a bus.
+4094.8362 : Passenger 119 is departing at station 1
+Passenger 119 had to wait for 33 round trips before entering the bus.
+4097.836 : Passenger 117 boarded the bus at station 1.
+4179.4146 : Passenger 117 spent 81.57861 on a bus.
+4179.4146 : Passenger 117 is departing at station 1
+Passenger 117 had to wait for 34 round trips before entering the bus.
+6234.194 : Passenger 102 boarded the bus at station 2.
+6291.551 : Passenger 102 spent 57.356934 on a bus.
+6291.551 : Passenger 102 is departing at station 1
+Passenger 102 had to wait for 59 round trips before entering the bus.
+7514.664 : Passenger 106 boarded the bus at station 2.
+7567.8027 : Passenger 106 spent 53.13867 on a bus.
+7567.8027 : Passenger 106 is departing at station 4
+Passenger 106 had to wait for 72 round trips before entering the bus.
+7570.8027 : Passenger 100 boarded the bus at station 4.
+7600.8027 : Passenger 100 spent 30.0 on a bus.
+7600.8027 : Passenger 100 is departing at station 2
+Passenger 100 had to wait for 72 round trips before entering the bus.
+7603.8027 : Passenger 110 boarded the bus at station 2.
+7663.3022 : Passenger 110 spent 59.49951 on a bus.
+7663.3022 : Passenger 110 is departing at station 1
+Passenger 110 had to wait for 72 round trips before entering the bus.
+7756.882 : Passenger 114 boarded the bus at station 2.
+7819.9907 : Passenger 114 spent 63.108887 on a bus.
+7819.9907 : Passenger 114 is departing at station 1
+Passenger 114 had to wait for 74 round trips before entering the bus.
+7887.486 : Passenger 104 boarded the bus at station 4.
+7917.486 : Passenger 104 spent 30.0 on a bus.
+7917.486 : Passenger 104 is departing at station 2
+Passenger 104 had to wait for 76 round trips before entering the bus.
+7920.486 : Passenger 118 boarded the bus at station 2.
+7988.87 : Passenger 118 spent 68.38428 on a bus.
+7988.87 : Passenger 118 is departing at station 1
+Passenger 118 had to wait for 76 round trips before entering the bus.
+8147.3955 : Passenger 108 boarded the bus at station 4.
+8187.8506 : Passenger 108 spent 40.45508 on a bus.
+8187.8506 : Passenger 108 is departing at station 2
+Passenger 108 had to wait for 79 round trips before entering the bus.
+8223.851 : Passenger 112 boarded the bus at station 4.
+8286.943 : Passenger 112 spent 63.092773 on a bus.
+8286.943 : Passenger 112 is departing at station 2
+Passenger 112 had to wait for 80 round trips before entering the bus.
+8342.625 : Passenger 116 boarded the bus at station 4.
+8421.516 : Passenger 116 spent 78.890625 on a bus.
+8421.516 : Passenger 116 is departing at station 3
+Passenger 116 had to wait for 81 round trips before entering the bus.
+8530.906 : Passenger 120 boarded the bus at station 4.
+8611.144 : Passenger 120 spent 80.237305 on a bus.
+8611.144 : Passenger 120 is departing at station 4
+Passenger 120 had to wait for 82 round trips before entering the bus.
